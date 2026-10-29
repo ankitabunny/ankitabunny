@@ -32,7 +32,7 @@
 ```python
 class Ankita:
     def __init__(self):
-        self.name       = "Ankita Amolkumar Nimal"
+        self.name       = "Ankita   Nimal"
         self.home       = "IIT Delhi 🏛️  (B.Tech CSE)"
         self.loves      = ["DSA", "systems", "logic puzzles", "probability", "game theory"]
         self.fuel       = ["chai", "Codeforces rounds", "Indian cricket 🏏"]
