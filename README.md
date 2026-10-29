@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=plasticdisplay1909&label=visitors&color=f5c2e7&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ankitabunny&label=visitors&color=f5c2e7&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/badge/mood-caffeinated-cba6f7?style=flat-square" alt="mood" />
   <img src="https://img.shields.io/badge/IIT%20Delhi-class%20of%202029-89b4fa?style=flat-square" alt="IIT Delhi" />
   <img src="https://img.shields.io/badge/open%20to-internships-a6e3a1?style=flat-square" alt="open to internships" />
@@ -109,12 +109,12 @@ class Ankita:
 ## 📊 My GitHub, in numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=plasticdisplay1909&show_icons=true&hide_border=true&count_private=true&bg_color=1e1e2e&title_color=f5c2e7&text_color=cdd6f4&icon_color=a6e3a1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plasticdisplay1909&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=f5c2e7&text_color=cdd6f4" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ankitabunny&show_icons=true&hide_border=true&count_private=true&bg_color=1e1e2e&title_color=f5c2e7&text_color=cdd6f4&icon_color=a6e3a1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitabunny&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=f5c2e7&text_color=cdd6f4" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=plasticdisplay1909&hide_border=true&background=1e1e2e&ring=f5c2e7&fire=fab387&currStreakLabel=cdd6f4&sideLabels=cdd6f4&currStreakNum=f5c2e7&sideNums=a6e3a1&dates=9399b2" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ankitabunny&hide_border=true&background=1e1e2e&ring=f5c2e7&fire=fab387&currStreakLabel=cdd6f4&sideLabels=cdd6f4&currStreakNum=f5c2e7&sideNums=a6e3a1&dates=9399b2" alt="GitHub Streak" />
 </p>
 
 ---
@@ -123,9 +123,9 @@ class Ankita:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/plasticdisplay1909/plasticdisplay1909/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/plasticdisplay1909/plasticdisplay1909/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/plasticdisplay1909/plasticdisplay1909/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitabunny/ankitabunny/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitabunny/ankitabunny/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ankitabunny/ankitabunny/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
